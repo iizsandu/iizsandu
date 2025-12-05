@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Data Scinece graduate with over 1.5 years of expierence in this field. I have done multiple internships in different fields like Data Analyst, Reporting Analyst, Machine Learning and I am highly motivated to build my carrer around Data Science Domain.
+I am a Data Science graduate with over 1.5 years of experience in this field. I have completed multiple internships in various fields, including Data Analyst, Reporting Analyst, and Machine Learning, and I am highly motivated to build my career around the Data Science Domain.
 
 My Portfolio: sandipshaw.online
 
