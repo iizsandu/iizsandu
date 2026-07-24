@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 Data Science graduate with hands-on experience across analytics roles, turning large, messy datasets into clear, actionable insights. I work across the full stack of an analytics problem — writing complex SQL, wrangling and validating data, building Power BI/Tableau dashboards, and shipping production data products. Lately I've been building Generative and Agentic AI systems (RAG, LLM fine-tuning, Crew AI agents).
 
+
 🔭 Currently building production GenAI + data pipelines at Cell Hub MS
-🎓 MSc Data Science & Spatial Analytics (Class Topper, CGPA 8.82)
+
+🎓 MSc Data Science & Spatial Analytics (Class Topper, CGPA 9.1)
+
 💬 Ask me about SQL, dashboards, RAG pipelines, and multi-agent systems
+
 📫 Reach me at sandip8017shaw@gmail.com
 
 My Portfolio: [sandipshaw.online](https://sandipshaw.online)
