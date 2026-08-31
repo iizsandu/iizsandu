@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data Science graduate with hands-on experience across analytics roles, turning large, messy datasets into clear, actionable insights. I work across the full stack of an analytics problem — writing complex SQL, wrangling and validating data, building Power BI/Tableau dashboards, and shipping production data products. Lately I've been building Generative and Agentic AI systems (RAG, LLM fine-tuning, Crew AI agents).
+Data Science graduate with hands-on experience across analytics roles, turning large, messy datasets into clear, actionable insights. I work across the full stack of an analytics problem, writing complex SQL, wrangling and validating data, building Power BI/Tableau dashboards, and shipping production data products. Lately I've been building Generative and Agentic AI systems (RAG, LLM fine-tuning, Crew AI agents).
 
 
 🔭 Currently building production GenAI + data pipelines at Cell Hub MS
 
-🎓 MSc Data Science & Spatial Analytics (Class Topper, CGPA 9.1)
+🎓 MSc Data Science & Spatial Analytics
 
 💬 Ask me about SQL, dashboards, RAG pipelines, and multi-agent systems
 
