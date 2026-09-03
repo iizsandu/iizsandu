@@ -50,6 +50,6 @@ I care about shipping things that actually work at scale, not just things that w
 
 Open to discussing AI/ML engineering roles, collaborations, or interesting data problems.
 
-- 💼 LinkedIn: [www.linkedin.com/in/iizsandu]
-- ✉️ Email: [sandip8017shaw@gmail.com]
-- 🌐 Portfolio: [sandipshaw.online]
+- 💼 LinkedIn: www.linkedin.com/in/iizsandu
+- ✉️ Email: sandip8017shaw@gmail.com
+- 🌐 Portfolio: sandipshaw.online
