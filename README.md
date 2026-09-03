@@ -36,7 +36,7 @@ I care about shipping things that actually work at scale, not just things that w
 
 ---
 
-### 🚀 Highlights
+### 🚀 Work & Projects
  
 | Category | Description | Tech |
 |---|---|---|
